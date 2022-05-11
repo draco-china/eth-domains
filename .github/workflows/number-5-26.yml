@@ -1,0 +1,22 @@
+
+  name: number-5-26
+  on:
+    watch:
+      types: started
+
+  jobs:
+    deploy:
+      runs-on: ubuntu-latest
+      if: github.event.repository.owner.id == github.event.sender.id
+      steps:
+        - uses: actions/checkout@v2
+        - run: npm install
+        - run: npm run number-5-26
+        - name: Deploy
+          uses: peaceiris/actions-gh-pages@v3
+          with:
+            personal_token: ${{ secrets.DEPLOY_KEY }}
+            publish_branch: main
+            destination_dir: domains
+            publish_dir: ./domains
+            keep_files: true
