@@ -57,6 +57,16 @@ const findRegister = async (domain) => {
 }
 
 const getDomains = async (name) => {
+  if (!fs.existsSync('./domains')) fs.mkdirSync('./domains');
+  const jsonPath = `./domains/${name}.json`;
+  const expirationPath = `./domains/${name}-expiration.json`;
+  const registerPath = `./domains/${name}.json`;
+  try {
+    fs.unlinkSync(jsonPath);
+    fs.unlinkSync(expirationPath);
+    fs.unlinkSync(registerPath);
+  } catch (error) {}
+
   const domains = fs.readFileSync(`./split-words/${name}.txt`, 'utf-8').split('\n');
   let results = [];
   for (let index = 0; index < domains.length; index++) {
@@ -65,22 +75,20 @@ const getDomains = async (name) => {
     if (!result.year) {
       result.expirationDate = await findExpirationDate(domain);
       console.log(index, '不可注册域名', result.domain, result.expirationDate);
-      fs.writeFileSync(`./domains/${name}-expiration.txt`, `${result.domain} ${result.expirationDate}年 可注册` + '\n', { flag: 'a' });
+      fs.writeFileSync(expirationPath, `${result.domain} ${result.expirationDate}年 可注册` + '\n', { flag: 'a' });
     } else {
       console.log(index, '可注册域名', result.domain, result.year, result.money);
-      fs.writeFileSync(`./domains/${name}.txt`, `${result.domain} ${result.year}年 ${result.money} 可注册` + '\n', { flag: 'a' });
+      fs.writeFileSync(registerPath, `${result.domain} ${result.year}年 ${result.money} 可注册` + '\n', { flag: 'a' });
     }
     results.push(result);
   }
-  fs.writeFileSync(`./domains/${name}.json`, JSON.stringify(results), { flag: 'a' });
+  fs.writeFileSync(jsonPath, JSON.stringify(results), { flag: 'a' });
   return results;
 }
 
 (
   async () => {
-    if(!fs.existsSync('./domains')) fs.mkdirSync('./domains');
     const arg = process.argv.slice(2)[0]
     await getDomains(arg);
   }
 )()
-
