@@ -59,9 +59,11 @@ const findRegister = async (domain) => {
 const getDomains = async (name) => {
   if (!fs.existsSync('./domains')) fs.mkdirSync('./domains');
   const jsonPath = `./domains/${name}.json`;
-  const expirationPath = `./domains/${name}-expiration.json`;
-  const registerPath = `./domains/${name}.json`;
+  const expirationPath = `./domains/${name}-expiration.text`;
+  const registerPath = `./domains/${name}.txt`;
   try {
+    fs.unlinkSync(`./domains/${name}-expiration.json`);
+    fs.unlinkSync(`./domains/${name}.json`);
     fs.unlinkSync(jsonPath);
     fs.unlinkSync(expirationPath);
     fs.unlinkSync(registerPath);
