@@ -2,6 +2,7 @@ import { defineConfig } from 'umi';
 
 export default defineConfig({
   hash: true,
+  outputPath: './docs',
   nodeModulesTransform: {
     type: 'none',
   },
