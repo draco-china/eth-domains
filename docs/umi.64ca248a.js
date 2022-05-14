@@ -88903,7 +88903,7 @@
                 ? Object(LB['jsx'])('a', {
                     target: '_blank',
                     href: 'https://app.ens.domains/name/'.concat(
-                      e,
+                      t.domain.toLowerCase(),
                       '.eth/register',
                     ),
                     children: '\u53bb\u6ce8\u518c',

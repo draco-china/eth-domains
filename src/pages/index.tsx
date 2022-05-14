@@ -88,7 +88,7 @@ export default () => {
             record.money ? (
               <a
                 target="_blank"
-                href={`https://app.ens.domains/name/${text}.eth/register`}
+                href={`https://app.ens.domains/name/${record.domain.toLowerCase()}.eth/register`}
               >
                 去注册
               </a>
