@@ -63,7 +63,6 @@ const getDomains = async (name) => {
   const registerPath = `./domains/${name}.txt`;
   try {
     fs.unlinkSync(`./domains/${name}-expiration.json`);
-    fs.unlinkSync(`./domains/${name}.json`);
     fs.unlinkSync(jsonPath);
     fs.unlinkSync(expirationPath);
     fs.unlinkSync(registerPath);
