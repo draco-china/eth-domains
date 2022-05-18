@@ -33,7 +33,7 @@ gucki 1年 0.002 ETH 可注册
 gucks 1年 0.002 ETH 可注册
 gudes 1年 0.002 ETH 可注册
 gudge 1年 0.002 ETH 可注册
-gudok 1年 ETH 可注册
+gudok 1年 0.002 ETH 可注册
 guelf 1年 0.002 ETH 可注册
 guffy 1年 0.002 ETH 可注册
 guffs 1年 0.002 ETH 可注册
@@ -42,13 +42,12 @@ guiac 1年 0.002 ETH 可注册
 guiba 1年 0.002 ETH 可注册
 guids 1年 0.002 ETH 可注册
 guyer 1年 0.002 ETH 可注册
-guige 1年 0.002 ETH 可注册
 guijo 1年 0.002 ETH 可注册
 guily 1年 0.002 ETH 可注册
 guiro 1年 0.002 ETH 可注册
 gujar 1年 0.002 ETH 可注册
 gulae 1年 0.002 ETH 可注册
-gular 1年 ETH 可注册
+gular 1年 0.002 ETH 可注册
 gulas 1年 0.002 ETH 可注册
 gulfy 1年 0.002 ETH 可注册
 gulix 1年 0.002 ETH 可注册
@@ -57,6 +56,7 @@ gulpy 1年 0.002 ETH 可注册
 gumly 1年 0.002 ETH 可注册
 gunge 1年 0.002 ETH 可注册
 gunja 1年 0.002 ETH 可注册
+gunks 1年 29543.780 ETH$5(+$60112239.20) =$60112244.21USD 可注册
 gunne 1年 0.002 ETH 可注册
 gurdy 1年 0.002 ETH 可注册
 gurge 1年 0.002 ETH 可注册
@@ -87,7 +87,7 @@ haded 1年 0.002 ETH 可注册
 hadit 1年 0.002 ETH 可注册
 hadnt 1年 0.002 ETH 可注册
 haets 1年 0.002 ETH 可注册
-hafis 1年 ETH 可注册
+hafis 1年 0.002 ETH 可注册
 haggy 1年 0.002 ETH 可注册
 hagia 1年 0.002 ETH 可注册
 haick 1年 0.002 ETH 可注册
@@ -98,7 +98,6 @@ haine 1年 0.002 ETH 可注册
 haire 1年 0.002 ETH 可注册
 hajes 1年 0.002 ETH 可注册
 hajis 1年 0.002 ETH 可注册
-hakam 1年 0.002 ETH 可注册
 hakes 1年 0.002 ETH 可注册
 halch 1年 0.002 ETH 可注册
 haldu 1年 0.002 ETH 可注册
@@ -116,7 +115,6 @@ hankt 1年 0.002 ETH 可注册
 haras 1年 0.002 ETH 可注册
 hared 1年 0.002 ETH 可注册
 harka 1年 0.002 ETH 可注册
-harks 1年 0.002 ETH 可注册
 harle 1年 0.002 ETH 可注册
 harls 1年 0.002 ETH 可注册
 harns 1年 0.002 ETH 可注册
@@ -191,14 +189,13 @@ hyleg 1年 0.002 ETH 可注册
 hylic 1年 0.002 ETH 可注册
 hilsa 1年 0.002 ETH 可注册
 hilus 1年 0.002 ETH 可注册
-himne 1年 ETH 可注册
+himne 1年 0.002 ETH 可注册
 hinau 1年 0.002 ETH 可注册
 hynde 1年 0.002 ETH 可注册
 hiney 1年 0.002 ETH 可注册
 hyoid 1年 0.002 ETH 可注册
 hypho 1年 0.002 ETH 可注册
 hipmi 1年 0.002 ETH 可注册
-hippa 1年 2.467 ETH$5(+$5516.62) =$5521.63USD 可注册
 hirse 1年 0.002 ETH 可注册
 hyrse 1年 0.002 ETH 可注册
 hyrst 1年 0.002 ETH 可注册
@@ -206,6 +203,7 @@ hisis 1年 0.002 ETH 可注册
 hispa 1年 0.002 ETH 可注册
 hists 1年 0.002 ETH 可注册
 hithe 1年 0.002 ETH 可注册
+hoard 1年 848.027 ETH$5(+$1723846.68) =$1723851.69USD 可注册
 hoast 1年 0.002 ETH 可注册
 hoboe 1年 0.002 ETH 可注册
 hocco 1年 0.002 ETH 可注册
@@ -214,7 +212,7 @@ hoddy 1年 0.002 ETH 可注册
 hoggs 1年 0.002 ETH 可注册
 hogni 1年 0.002 ETH 可注册
 hoick 1年 0.002 ETH 可注册
-hoise 1年 ETH 可注册
+hoise 1年 0.002 ETH 可注册
 hoked 1年 0.002 ETH 可注册
 hoker 1年 0.002 ETH 可注册
 hokes 1年 0.002 ETH 可注册
@@ -222,6 +220,7 @@ holia 1年 0.002 ETH 可注册
 holks 1年 0.002 ETH 可注册
 holms 1年 0.002 ETH 可注册
 homam 1年 0.002 ETH 可注册
+homer 1年 1297.720 ETH$5(+$2637973.53) =$2637978.53USD 可注册
 hoofy 1年 0.002 ETH 可注册
 hooye 1年 0.002 ETH 可注册
 hoove 1年 0.002 ETH 可注册
@@ -241,7 +240,6 @@ houve 1年 0.002 ETH 可注册
 hoven 1年 0.002 ETH 可注册
 howea 1年 0.002 ETH 可注册
 howel 1年 0.002 ETH 可注册
-howff 1年 0.002 ETH 可注册
 howfs 1年 0.002 ETH 可注册
 howks 1年 0.002 ETH 可注册
 howso 1年 0.002 ETH 可注册
@@ -272,7 +270,7 @@ yadim 1年 0.002 ETH 可注册
 yaffs 1年 0.002 ETH 可注册
 yagua 1年 0.002 ETH 可注册
 yahan 1年 0.002 ETH 可注册
-yaird 1年 ETH 可注册
+yaird 1年 0.002 ETH 可注册
 yajna 1年 0.002 ETH 可注册
 yakan 1年 0.002 ETH 可注册
 yakin 1年 0.002 ETH 可注册
@@ -299,7 +297,6 @@ icaco 1年 0.002 ETH 可注册
 icasm 1年 0.002 ETH 可注册
 iceni 1年 0.002 ETH 可注册
 ichth 1年 0.002 ETH 可注册
-icker 1年 0.002 ETH 可注册
 yclad 1年 0.002 ETH 可注册
 iconv 1年 0.002 ETH 可注册
 ictic 1年 0.002 ETH 可注册
@@ -336,7 +333,7 @@ ierne 1年 0.002 ETH 可注册
 yerth 1年 0.002 ETH 可注册
 yerva 1年 0.002 ETH 可注册
 yesso 1年 0.002 ETH 可注册
-yesty 1年 ETH 可注册
+yesty 1年 0.002 ETH 可注册
 yetts 1年 0.002 ETH 可注册
 yeuky 1年 0.002 ETH 可注册
 yeuks 1年 0.002 ETH 可注册
@@ -373,11 +370,11 @@ ilion 1年 0.002 ETH 可注册
 illth 1年 0.002 ETH 可注册
 iloko 1年 0.002 ETH 可注册
 imaum 1年 0.002 ETH 可注册
-imban 1年 ETH 可注册
+imban 1年 0.002 ETH 可注册
 imbat 1年 0.002 ETH 可注册
 imcnt 1年 0.002 ETH 可注册
 imide 1年 0.002 ETH 可注册
-imido 1年 0.002 ETH 可注册
+imido 1年 ETH 可注册
 imids 1年 0.002 ETH 可注册
 imino 1年 0.002 ETH 可注册
 immew 1年 0.002 ETH 可注册
