@@ -17,7 +17,7 @@ attry 1年 0.002 ETH 可注册
 atule 1年 0.002 ETH 可注册
 atune 1年 0.002 ETH 可注册
 atwin 1年 0.002 ETH 可注册
-aucan 1年 0.002 ETH 可注册
+aucan 1年 ETH 可注册
 aucht 1年 0.002 ETH 可注册
 audad 1年 0.002 ETH 可注册
 aueto 1年 0.002 ETH 可注册
@@ -30,12 +30,12 @@ aumil 1年 0.002 ETH 可注册
 auryl 1年 0.002 ETH 可注册
 aurin 1年 0.002 ETH 可注册
 aurir 1年 0.002 ETH 可注册
-autem 1年 11.573 ETH$5(+$25393.14) =$25398.14USD 可注册
+autem 1年 0.111 ETH$5(+$221.63) =$226.63USD 可注册
 auxil 1年 0.002 ETH 可注册
 avahi 1年 0.002 ETH 可注册
 avars 1年 0.002 ETH 可注册
 aveny 1年 0.002 ETH 可注册
-avens 1年 0.002 ETH 可注册
+avens 1年 ETH 可注册
 avern 1年 0.002 ETH 可注册
 avick 1年 0.002 ETH 可注册
 avile 1年 0.002 ETH 可注册
@@ -89,7 +89,7 @@ bacin 1年 0.002 ETH 可注册
 backy 1年 0.002 ETH 可注册
 badju 1年 0.002 ETH 可注册
 badon 1年 0.002 ETH 可注册
-baffs 1年 ETH 可注册
+baffs 1年 0.002 ETH 可注册
 bagge 1年 0.002 ETH 可注册
 bagie 1年 0.002 ETH 可注册
 bagio 1年 0.002 ETH 可注册
@@ -118,10 +118,9 @@ bakli 1年 0.002 ETH 可注册
 balai 1年 0.002 ETH 可注册
 balak 1年 0.002 ETH 可注册
 balao 1年 0.002 ETH 可注册
-balas 1年 0.002 ETH 可注册
 balau 1年 0.002 ETH 可注册
 balei 1年 0.002 ETH 可注册
-bales 1年 491.880 ETH$5(+$1061966.90) =$1061971.90USD 可注册
+bales 1年 5.519 ETH$5(+$11197.71) =$11202.72USD 可注册
 balor 1年 0.002 ETH 可注册
 balow 1年 0.002 ETH 可注册
 balun 1年 0.002 ETH 可注册
@@ -168,12 +167,10 @@ baume 1年 0.002 ETH 可注册
 bauno 1年 0.002 ETH 可注册
 baure 1年 0.002 ETH 可注册
 bauta 1年 0.002 ETH 可注册
-bawds 1年 0.002 ETH 可注册
 bawke 1年 0.002 ETH 可注册
 bawly 1年 0.002 ETH 可注册
 bawra 1年 0.002 ETH 可注册
 bawty 1年 0.002 ETH 可注册
-bazoo 1年 0.002 ETH 可注册
 beant 1年 0.002 ETH 可注册
 bearm 1年 0.002 ETH 可注册
 beath 1年 0.002 ETH 可注册
@@ -198,7 +195,7 @@ bedub 1年 0.002 ETH 可注册
 bedur 1年 0.002 ETH 可注册
 beele 1年 0.002 ETH 可注册
 beent 1年 0.002 ETH 可注册
-beety 1年 ETH 可注册
+beety 1年 0.002 ETH 可注册
 beeve 1年 0.002 ETH 可注册
 befan 1年 0.002 ETH 可注册
 befop 1年 0.002 ETH 可注册
@@ -209,7 +206,6 @@ begem 1年 0.002 ETH 可注册
 begob 1年 0.002 ETH 可注册
 begut 1年 0.002 ETH 可注册
 behap 1年 0.002 ETH 可注册
-behav 1年 0.002 ETH 可注册
 behew 1年 0.002 ETH 可注册
 beice 1年 0.002 ETH 可注册
 beigy 1年 0.002 ETH 可注册
@@ -227,7 +223,6 @@ belat 1年 0.002 ETH 可注册
 belee 1年 0.002 ETH 可注册
 belue 1年 0.002 ETH 可注册
 belve 1年 0.002 ETH 可注册
-bemad 1年 0.002 ETH 可注册
 beman 1年 0.002 ETH 可注册
 bemar 1年 0.002 ETH 可注册
 bemas 1年 0.002 ETH 可注册
@@ -249,7 +244,7 @@ berme 1年 0.002 ETH 可注册
 berob 1年 0.002 ETH 可注册
 beroe 1年 0.002 ETH 可注册
 berun 1年 0.002 ETH 可注册
-besan 1年 ETH 可注册
+besan 1年 0.002 ETH 可注册
 besee 1年 0.002 ETH 可注册
 besew 1年 0.002 ETH 可注册
 besin 1年 0.002 ETH 可注册
@@ -258,7 +253,6 @@ besom 1年 0.002 ETH 可注册
 bespy 1年 0.002 ETH 可注册
 besra 1年 0.002 ETH 可注册
 bessi 1年 0.002 ETH 可注册
-betag 1年 0.002 ETH 可注册
 betes 1年 0.002 ETH 可注册
 betso 1年 0.002 ETH 可注册
 bevor 1年 0.002 ETH 可注册
@@ -375,7 +369,6 @@ bolus 1年 0.002 ETH 可注册
 bomos 1年 0.002 ETH 可注册
 bonav 1年 0.002 ETH 可注册
 bonbo 1年 0.002 ETH 可注册
-bonce 1年 0.002 ETH 可注册
 boodh 1年 0.002 ETH 可注册
 boort 1年 0.002 ETH 可注册
 boosy 1年 0.002 ETH 可注册
