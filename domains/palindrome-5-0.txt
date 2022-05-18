@@ -87,7 +87,6 @@ padap 1年 0.002 ETH 可注册
 pahap 1年 0.002 ETH 可注册
 palap 1年 0.002 ETH 可注册
 pamap 1年 0.002 ETH 可注册
-panap 1年 0.002 ETH 可注册
 parap 1年 0.002 ETH 可注册
 pasap 1年 0.002 ETH 可注册
 patap 1年 0.002 ETH 可注册
@@ -109,10 +108,9 @@ rubur 1年 0.002 ETH 可注册
 sapas 1年 0.002 ETH 可注册
 sawas 1年 0.002 ETH 可注册
 sitis 1年 0.002 ETH 可注册
-socos 1年 0.002 ETH 可注册
 sodos 1年 0.002 ETH 可注册
 supus 1年 0.002 ETH 可注册
-tabat 1年 0.002 ETH 可注册
+tabat 1年 ETH 可注册
 tagat 1年 0.002 ETH 可注册
 tapat 1年 0.002 ETH 可注册
 tarat 1年 0.002 ETH 可注册
