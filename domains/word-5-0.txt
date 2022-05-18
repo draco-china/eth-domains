@@ -8,7 +8,6 @@ abask 1年 0.002 ETH 可注册
 abaue 1年 0.002 ETH 可注册
 abave 1年 0.002 ETH 可注册
 abaze 1年 0.002 ETH 可注册
-abbes 1年 0.002 ETH 可注册
 abdat 1年 0.002 ETH 可注册
 abdom 1年 0.002 ETH 可注册
 abede 1年 0.002 ETH 可注册
@@ -39,7 +38,7 @@ abstr 1年 0.002 ETH 可注册
 abune 1年 0.002 ETH 可注册
 abura 1年 0.002 ETH 可注册
 abush 1年 0.002 ETH 可注册
-abuta 1年 0.002 ETH 可注册
+abuta 1年 ETH 可注册
 abwab 1年 0.002 ETH 可注册
 acale 1年 0.002 ETH 可注册
 acapu 1年 0.002 ETH 可注册
@@ -67,7 +66,6 @@ acost 1年 0.002 ETH 可注册
 acoup 1年 0.002 ETH 可注册
 acrab 1年 0.002 ETH 可注册
 acroa 1年 0.002 ETH 可注册
-actos 1年 0.002 ETH 可注册
 acuan 1年 0.002 ETH 可注册
 adagy 1年 0.002 ETH 可注册
 adays 1年 0.002 ETH 可注册
@@ -78,7 +76,7 @@ adawe 1年 0.002 ETH 可注册
 adawn 1年 0.002 ETH 可注册
 adcon 1年 0.002 ETH 可注册
 addda 1年 0.002 ETH 可注册
-addnl 1年 ETH 可注册
+addnl 1年 0.002 ETH 可注册
 adead 1年 0.002 ETH 可注册
 adeps 1年 0.002 ETH 可注册
 adfix 1年 0.002 ETH 可注册
@@ -92,7 +90,7 @@ admrx 1年 0.002 ETH 可注册
 adnex 1年 0.002 ETH 可注册
 adoxa 1年 0.002 ETH 可注册
 adoxy 1年 0.002 ETH 可注册
-adoze 1年 ETH 可注册
+adoze 1年 0.002 ETH 可注册
 adpao 1年 0.002 ETH 可注册
 adrad 1年 0.002 ETH 可注册
 adret 1年 0.002 ETH 可注册
@@ -114,7 +112,6 @@ afara 1年 0.002 ETH 可注册
 afars 1年 0.002 ETH 可注册
 afear 1年 0.002 ETH 可注册
 afgod 1年 0.002 ETH 可注册
-aflat 1年 0.002 ETH 可注册
 afley 1年 0.002 ETH 可注册
 aflow 1年 0.002 ETH 可注册
 afoam 1年 0.002 ETH 可注册
@@ -128,8 +125,8 @@ agast 1年 0.002 ETH 可注册
 agaty 1年 0.002 ETH 可注册
 agend 1年 0.002 ETH 可注册
 agene 1年 0.002 ETH 可注册
-agers 1年 0.002 ETH 可注册
-aggry 1年 0.002 ETH 可注册
+agers 1年 ETH 可注册
+aggry 1年 ETH 可注册
 aggur 1年 0.002 ETH 可注册
 aghan 1年 0.002 ETH 可注册
 aghas 1年 0.002 ETH 可注册
@@ -216,7 +213,6 @@ algic 1年 0.002 ETH 可注册
 algid 1年 0.002 ETH 可注册
 algin 1年 0.002 ETH 可注册
 algol 1年 0.002 ETH 可注册
-algum 1年 0.002 ETH 可注册
 alhet 1年 0.002 ETH 可注册
 alids 1年 0.002 ETH 可注册
 aliet 1年 0.002 ETH 可注册
@@ -252,11 +248,9 @@ alvah 1年 0.002 ETH 可注册
 alvus 1年 0.002 ETH 可注册
 amaas 1年 0.002 ETH 可注册
 amaga 1年 0.002 ETH 可注册
-amain 1年 0.002 ETH 可注册
 amalg 1年 0.002 ETH 可注册
 amang 1年 0.002 ETH 可注册
 amapa 1年 0.002 ETH 可注册
-amate 1年 0.002 ETH 可注册
 amaut 1年 0.002 ETH 可注册
 ambay 1年 0.002 ETH 可注册
 amban 1年 0.002 ETH 可注册
@@ -312,13 +306,11 @@ ankou 1年 0.002 ETH 可注册
 ankus 1年 0.002 ETH 可注册
 anlas 1年 0.002 ETH 可注册
 anlet 1年 0.002 ETH 可注册
-anlia 1年 0.002 ETH 可注册
+anlia 1年 ETH 可注册
 anmia 1年 0.002 ETH 可注册
 annat 1年 0.002 ETH 可注册
-annet 1年 0.002 ETH 可注册
 anniv 1年 0.002 ETH 可注册
 annot 1年 0.002 ETH 可注册
-annus 1年 0.002 ETH 可注册
 anoas 1年 0.002 ETH 可注册
 anoia 1年 0.002 ETH 可注册
 anoil 1年 0.002 ETH 可注册
@@ -330,7 +322,6 @@ anous 1年 0.002 ETH 可注册
 ansae 1年 0.002 ETH 可注册
 antae 1年 0.002 ETH 可注册
 antas 1年 0.002 ETH 可注册
-antiq 1年 0.002 ETH 可注册
 antum 1年 0.002 ETH 可注册
 anury 1年 0.002 ETH 可注册
 aotea 1年 0.002 ETH 可注册
@@ -343,22 +334,21 @@ apast 1年 0.002 ETH 可注册
 apeak 1年 0.002 ETH 可注册
 apert 1年 0.002 ETH 可注册
 aperu 1年 0.002 ETH 可注册
-apian 1年 30401.551 ETH$5(+$63699276.68) =$63699281.69USD 可注册
-apiin 1年 ETH 可注册
+apian 1年 436.927 ETH$5(+$892269.58) =$892274.58USD 可注册
+apiin 1年 0.002 ETH 可注册
 apili 1年 0.002 ETH 可注册
 apina 1年 0.002 ETH 可注册
-aping 1年 5.089 ETH$5(+$10658.60) =$10663.60USD 可注册
 apiol 1年 0.002 ETH 可注册
 apium 1年 0.002 ETH 可注册
 apoda 1年 0.002 ETH 可注册
 apods 1年 0.002 ETH 可注册
 apoop 1年 0.002 ETH 可注册
 apout 1年 0.002 ETH 可注册
-appay 1年 0.002 ETH 可注册
 appar 1年 0.002 ETH 可注册
 appet 1年 0.002 ETH 可注册
 appmt 1年 0.002 ETH 可注册
 appro 1年 0.002 ETH 可注册
+apptd 1年 0.002 ETH 可注册
 appui 1年 0.002 ETH 可注册
 apsid 1年 0.002 ETH 可注册
 apsis 1年 0.002 ETH 可注册
@@ -403,7 +393,7 @@ argol 1年 0.002 ETH 可注册
 arhar 1年 0.002 ETH 可注册
 ariki 1年 0.002 ETH 可注册
 arils 1年 0.002 ETH 可注册
-aryls 1年 ETH 可注册
+aryls 1年 0.002 ETH 可注册
 arioi 1年 0.002 ETH 可注册
 ariot 1年 0.002 ETH 可注册
 arist 1年 0.002 ETH 可注册
@@ -424,8 +414,7 @@ arrau 1年 0.002 ETH 可注册
 arrgt 1年 0.002 ETH 可注册
 arrha 1年 0.002 ETH 可注册
 arsyl 1年 0.002 ETH 可注册
-arsle 1年 ETH 可注册
-artal 1年 0.002 ETH 可注册
+arsle 1年 0.002 ETH 可注册
 artou 1年 0.002 ETH 可注册
 aruac 1年 0.002 ETH 可注册
 aruke 1年 0.002 ETH 可注册
@@ -438,8 +427,8 @@ asarh 1年 0.002 ETH 可注册
 ascry 1年 0.002 ETH 可注册
 ascus 1年 0.002 ETH 可注册
 asdic 1年 0.002 ETH 可注册
-asgmt 1年 ETH 可注册
-ashet 1年 0.002 ETH 可注册
+asgmt 1年 0.002 ETH 可注册
+ashet 1年 ETH 可注册
 asyla 1年 0.002 ETH 可注册
 asyle 1年 0.002 ETH 可注册
 askoi 1年 0.002 ETH 可注册
